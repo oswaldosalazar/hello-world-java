@@ -1,4 +1,4 @@
-// testing git 2
+/* testing git 2 */
 
 package com.oswaldosalazar;
 
