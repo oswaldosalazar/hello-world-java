@@ -1,5 +1,3 @@
-/* testing git 8  */
-
 package com.oswaldosalazar;
 
 public class Main {
